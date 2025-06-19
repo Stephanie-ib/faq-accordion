@@ -157,7 +157,8 @@ body {
 }
 
 .toggleIcon {
-  width: 18px;
+  width: 30px;
+  height: 30px;
   filter: invert(1);
   transition: transform 0.3s ease;
 }
